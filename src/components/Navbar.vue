@@ -12,7 +12,7 @@
     </div>
     <div class="relative flex w-[45%] flex-row items-center justify-end">
       <button class="mr-6 mt-4" @click="setMenuOpen(!menuOpen)">
-        <HamburgerIcon class="h-[40px] w-[40px] stroke-black lg:hidden" />
+        <!-- <HamburgerIcon class="h-[40px] w-[40px] stroke-black lg:hidden" /> -->
       </button>
       <ul class="hidden w-full items-center justify-between pr-10 lg:flex">
         <li class="my-5 font-body text-lg font-medium">

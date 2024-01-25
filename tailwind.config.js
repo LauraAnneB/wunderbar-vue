@@ -4,9 +4,9 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        hero_image: "url('/heropage_wunderbar.png')",
-        outro_image: "url('/outropage_wunderbar.png')",
-        hero_image_mobile: "url('/heropage_mobile_best.png')",
+        hero_image: "url('/public/heropage_wunderbar.png')",
+        outro_image: "url('/public/outropage_wunderbar.png')",
+        hero_image_mobile: "url('/public/heropage_mobile_best.png')",
       },
       fontFamily: {
         title: ["Gloria Hallelujah", "Helvetica"],
